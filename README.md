@@ -1,2 +1,2 @@
 # Password-Generator.py
-Simple password generator that takes user input
+Simple python password generator that takes user input
